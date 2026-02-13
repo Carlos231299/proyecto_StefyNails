@@ -10,7 +10,7 @@
     </div>
     <div class="relative z-10 text-center px-4 animate-fade-in">
         <h1 class="text-5xl md:text-7xl font-bold text-pink-700 mb-6 drop-shadow-md">
-            Stylo Stefy
+            Stylo Stefy Pruebas
         </h1>
         <p class="text-xl md:text-2xl text-gray-700 mb-8 max-w-2xl mx-auto">
             Belleza y elegancia para tus manos y cabello. Déjate consentir por profesionales.
